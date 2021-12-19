@@ -22,6 +22,10 @@
 
 > 这个项目下是在学习 XCPC 竞赛时一些有用的学习资源（网站、博客）
 
+### 书籍
+
+- 算法竞赛进阶指南（作者：李煜东）
+
 ### 工具类网站
 
 - 赛事信息：[News - XCPCIO](https://xcpcio.com/)
@@ -30,6 +34,7 @@
   - 可以在这里找到  ICPC/CCPC 赛事的榜单
 
 - 算法wiki：[OI Wiki (oi-wiki.org)](https://oi-wiki.org/)
+- 算法竞赛课件：[hzwer/shareOI: 算法竞赛课件分享](https://github.com/hzwer/shareOI)
 - 数列查询：[The On-Line Encyclopedia of Integer Sequences® (OEIS®)](http://oeis.org/)
   - 在网站搜索页面输入数列的名称(英文)或者直接输入数列的一部分查询数列通项公式
   - 离线版本（有条件可以淘宝打印在比赛中使用）：[africamonkey/OEIS-Spider: OEIS爬虫 (github.com)](https://github.com/africamonkey/OEIS-Spider)
