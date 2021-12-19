@@ -50,7 +50,7 @@
 
 ![image-20211219144601380](README.assets/image-20211219144601380.png)
 
-- [AtCoder](https://atcoder.jp/)：日本思维训练习题网站，特点是题面英文较短，Contest 中前 3 题的思维难度比 Coderforces 低
+- [AtCoder](https://atcoder.jp/)：日本思维训练习题网站，特点是题面英文较短，Contest 中前 3 题的思维难度比 Codeforces 低
   - [AtCoder从小白到大神的进阶攻略](https://www.luogu.com.cn/blog/LHYLHY/AtCoder)
   - [Dropbox - atcoder_testcases](https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAAYlTq2tiEHl5hsESw6-yfLa?dl=0) ：AtCoder 非最新比赛的有关测试数据（需要 VPN）
 - [Gym - Codeforces](https://codeforces.com/gyms)：有许多出题人会将区域赛题目放在这里来供大家练习
