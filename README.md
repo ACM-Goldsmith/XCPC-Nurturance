@@ -4,27 +4,6 @@
 
 > 认识程序设计竞赛（作者：2016级学长 林泽聪）：[一道题带你认识ACM竞赛_LP-Cong](https://lpcong.blog.csdn.net/article/details/77887804)
 
-## 比赛
-
-### CCPC 区域赛
-
-- 一切的开始：[Getting Started - CCPC](https://xcpcio.com/info/ccpc/)
-
-### ICPC 区域赛
-
-- 一切的开始：[Getting Started - ICPC](https://xcpcio.com/info/icpc/)
-
-### 团体程序设计天梯赛
-
-- 竞赛官网：[团体程序设计天梯赛 (patest.cn)](https://gplt.patest.cn/regulation)
-- 往年题练习：[团体程序设计天梯赛-练习集 (pintia.cn)](https://pintia.cn/problem-sets/994805046380707840/problems/type/7)
-
-## 学习路线
-
-## 学习方法
-
-### 搜索技巧
-
 ## 学习资源
 
 > 这个项目下是在学习 XCPC 竞赛时一些有用的学习资源（网站、博客）
@@ -77,7 +56,26 @@
 - [Gym - Codeforces](https://codeforces.com/gyms)：有许多出题人会将区域赛题目放在这里来供大家练习
 - [牛客](https://ac.nowcoder.com/acm/home)：需要关注的是每年的暑假多校，一般预示着当年区域赛的难度水平，同时在牛客暑期多校群里通常都有大神/出题人出没解答问题以及赛事的最新信息
 
+## 比赛
 
+### CCPC 区域赛
+
+- 一切的开始：[Getting Started - CCPC](https://xcpcio.com/info/ccpc/)
+
+### ICPC 区域赛
+
+- 一切的开始：[Getting Started - ICPC](https://xcpcio.com/info/icpc/)
+
+### 团体程序设计天梯赛
+
+- 竞赛官网：[团体程序设计天梯赛 (patest.cn)](https://gplt.patest.cn/regulation)
+- 往年题练习：[团体程序设计天梯赛-练习集 (pintia.cn)](https://pintia.cn/problem-sets/994805046380707840/problems/type/7)
+
+## 学习路线
+
+## 学习方法
+
+### 搜索技巧
 
 ## 博客编写
 
