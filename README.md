@@ -6,11 +6,18 @@
 
 ## 比赛
 
-### ICPC 区域赛
-
 ### CCPC 区域赛
 
+- 一切的开始：[Getting Started - CCPC](https://xcpcio.com/info/ccpc/)
+
+### ICPC 区域赛
+
+- 一切的开始：[Getting Started - ICPC](https://xcpcio.com/info/icpc/)
+
 ### 团体程序设计天梯赛
+
+- 竞赛官网：[团体程序设计天梯赛 (patest.cn)](https://gplt.patest.cn/regulation)
+- 往年题练习：[团体程序设计天梯赛-练习集 (pintia.cn)](https://pintia.cn/problem-sets/994805046380707840/problems/type/7)
 
 ## 学习路线
 
