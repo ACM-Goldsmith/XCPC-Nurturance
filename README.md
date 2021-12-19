@@ -47,6 +47,7 @@
 
 - [Virtual Judge (vjudge.net)](https://vjudge.net/)：集合了多个 OJ 的网站，使用一个账号就可以远程提交多个 OJ 的习题，非常方便找题和组题
 - [Codeforces](https://codeforces.com/)：较好的思维训练习题网站，可以以此为主刷题并参加 Contest 中的比赛，在非最新题目的右下角的 `Tutorial`  处可以看到英文题解
+  - [Codeforces游玩攻略](https://www.luogu.com.cn/blog/ezoixx130/codeforces-tutorial)
 
 ![image-20211219144601380](README.assets/image-20211219144601380.png)
 
