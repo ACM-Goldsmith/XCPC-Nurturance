@@ -2,7 +2,7 @@
 
 ## 前言
 
-> 
+> 认识程序设计竞赛（作者：2016级学长 林泽聪）：[一道题带你认识ACM竞赛_LP-Cong](https://lpcong.blog.csdn.net/article/details/77887804)
 
 ## 比赛
 
@@ -14,7 +14,7 @@
 
 ## 学习路线
 
-
+## 学习方法
 
 ## 学习资源
 
@@ -38,6 +38,8 @@
 
 - [OverLeaf](https://cn.overleaf.com/) ：使用 LaTex 构建自己的模板使用
 - [LaTeX常用符号与语法](https://blog.csdn.net/ShadyPi/article/details/83049219) ：写博客，构建模板使用
+- [Mathpix Snip Notes](https://mathpix.com/)：公式识别，截图并将公式转换为 LaTex，写博客，构建模板使用
+- [Statistics - OJ Tracker (ojhunt.com)](https://ojhunt.com/statistics)：查看自己在各个 OJ 的做题情况（自动去重）
 
 ### 习题和训练网站
 
