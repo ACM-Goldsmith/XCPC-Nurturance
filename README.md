@@ -76,4 +76,7 @@
 
 ### 博客链接
 
+- [LP_Cong](https://lpcong.blog.csdn.net/)
+- [Scar_Halo](https://blog.csdn.net/Scar_Halo)
+
 ## 模板构建
