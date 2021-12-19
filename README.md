@@ -34,7 +34,11 @@
   - 可以在这里找到  ICPC/CCPC 赛事的榜单
 
 - 算法wiki：[OI Wiki (oi-wiki.org)](https://oi-wiki.org/)
+  - 当听到一些古怪的没听说过的名词时，可以在这里查阅学习
+
 - 算法竞赛课件：[hzwer/shareOI: 算法竞赛课件分享](https://github.com/hzwer/shareOI)
+  - 当需要 Acwing 中无法获得的知识点时，可以在这里看一下
+
 - 数列查询：[The On-Line Encyclopedia of Integer Sequences® (OEIS®)](http://oeis.org/)
   - 在网站搜索页面输入数列的名称(英文)或者直接输入数列的一部分查询数列通项公式
   - 离线版本（有条件可以淘宝打印在比赛中使用）：[africamonkey/OEIS-Spider: OEIS爬虫 (github.com)](https://github.com/africamonkey/OEIS-Spider)
