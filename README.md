@@ -34,7 +34,7 @@
 
 - 《算法竞赛进阶指南》配套学习资料：[算法竞赛进阶指南](https://active.clewm.net/BR0hXu?qrurl=http://c3.clewm.net/BR0hXu&gtype=1&key=8bfd1166d5264ea7c3989515e774cd74ac84871282)
 - 云剪贴板（用于分享代码）
-  - [洛谷]([云剪贴板 - 洛谷 | 计算机科学教育新生态 (luogu.com.cn)](https://www.luogu.com.cn/paste))
+  - [洛谷](https://www.luogu.com.cn/paste)
 
 - [OverLeaf](https://cn.overleaf.com/) ：使用 LaTex 构建自己的模板使用
 - [LaTeX常用符号与语法](https://blog.csdn.net/ShadyPi/article/details/83049219) ：写博客，构建模板使用
@@ -46,7 +46,7 @@
 ![image-20211219143301393](README.assets/image-20211219143301393.png)
 
 - [Virtual Judge (vjudge.net)](https://vjudge.net/)：集合了多个 OJ 的网站，使用一个账号就可以远程提交多个 OJ 的习题，非常方便找题和组题
-- [Codeforces](https://codeforces.com/)：较好的思维训练习题网站，可以以此为主刷题并参加 Contest 中的比赛，在非最新题目的右下角的 `Tutorial ` 处可以看到英文题解
+- [Codeforces](https://codeforces.com/)：较好的思维训练习题网站，可以以此为主刷题并参加 Contest 中的比赛，在非最新题目的右下角的 `Tutorial`  处可以看到英文题解
 
 ![image-20211219144601380](README.assets/image-20211219144601380.png)
 
