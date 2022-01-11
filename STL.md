@@ -93,7 +93,7 @@ mp[key] = value;
 m.insert(make_pair(key, value));  
 ```
 
-也可以直接调用insert方法插入元素对,insert操作会返回一个pair,当map中没有与key相匹配的键值时,其first是指向插入元素对的迭代器,其second为true;若map中已经存在与key相等的键值时,其first是指向该元素对的迭代器,second为false。
+也可以直接调用insert方法插入元素对，insert操作会返回一个pair，当map中没有与key相匹配的键值时，其first是指向插入元素对的迭代器，其second为true;若map中已经存在与key相等的键值时，其first是指向该元素对的迭代器，second为false。
 
 #### 3.2.2 查找元素
 
@@ -133,6 +133,37 @@ m.empty();     //判断是否为空
 m.clear();     //清空所有元素
 m.begin();     //返回首迭代器
 m.end();       //返回尾迭代器
+```
+
+### 3.3 实例
+
+问题：用 map 统计字符串出现的次数
+
+给定 $n$ 个字符串，$m$ 个询问，每个问题询问一个字符串出现的次数。$n\le 2\times 10^4, m\le 2\times 10^4$，每个字符串的长度都不超过 $20$。
+
+```cpp
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int n, m;
+
+int main() {
+    scanf("%d%d", &n, &m);
+    map<string, int> h;
+    char str[50];
+    for (int i = 0; i < n; ++i) {
+        scanf("%s", str);
+        h[str]++;
+    }
+    for (int i = 1; i <= m; ++i) {
+        scanf("%s", str);
+        if (h.find(str) == h.end())
+            puts("0");
+        else printf("%d\n", h[str]);
+    }
+    return 0;
+}
 ```
 
 
