@@ -62,7 +62,7 @@ pair<string, int> name_age2(name_age);    // 拷贝构造初始化
 
 ```cpp
 p1 < p2;                   // 两个pair对象间的小于运算，其定义遵循字典次序：如 p1.first < p2.first 或者 !(p2.first < p1.first) && (p1.second < p2.second) 则返回true。
-p1 == p2；                 // 如果两个对象的first和second依次相等，则这两个对象相等；该运算使用元素的==操作符。
+p1 == p2;                 // 如果两个对象的first和second依次相等，则这两个对象相等；该运算使用元素的==操作符。
 p1.first;                  // 返回对象p1中名为first的公有数据成员
 p1.second;                 // 返回对象p1中名为second的公有数据成员
 ```
