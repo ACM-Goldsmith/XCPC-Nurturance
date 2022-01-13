@@ -11,6 +11,7 @@
 ### 1.1 初始化
 
 ```cpp
+#include<vector>
 vector<int> v1; // 定义一个vector
 vector<int> v2(300); // 定义一个初始大小为300的vector
 ```
@@ -75,6 +76,7 @@ p1.second;                 // 返回对象p1中名为second的公有数据成员
 ### 3.1 初始化
 
 ```cpp
+#include<map>
 map<T1, T2> mp; //创建一个空的map,它的key为T1类型,value为T2类型
 map<string, int> mp_cnt; //创建一个key为string类型,value为int类型的map
 ```
@@ -166,5 +168,83 @@ int main() {
 }
 ```
 
+## 4 string
 
+- 和字符型数组类似，是一个存储字符串的类型
+- 不可使用 `scanf` 读入
+
+### 4.1 初始化
+
+```cpp
+string s;
+cin >> s; // 直接使用cin读入一个字符串
+string s2 = {'1','2','3','4','5'}; // 像构造数组一样构造
+```
+
+### 4.2 基本操作
+
+```cpp
+string s;
+// 使用 s.function(); 调用自带的函数
+
+size()/length()  										//返回字符串长度
+empty() 												//返回字符串是否为空
+clear()													//清空字符串
+substr(起始下标，(子串长度))  						  	  //返回子串
+to_string() 											//把一个数值转化为字符串
+c_str()  												//返回字符串所在字符数组的起始地址
+    
+//以下函数只能在在只含有大小写英文字符的串中才能正常工作
+transform(s.begin(), s.end(), s.begin(), ::toupper); 	//转换为大写
+transform(s.begin(), s.end(), s.begin(), ::tolower); 	//转换为小写
+s[i] = toupper(s[i]);									//把字符串的单个字符变大写
+s[i] = tolower(s[i]);									//把字符串的单个字符变小写
+```
+
+## 5 stack
+
+- 实现一个先近后出的数据结构
+- 在弹出数据时需要判断栈是否为空
+- 基础知识参考: [数据结构（C语言版） 第 三 章 栈与队列 知识梳理 + 作业习题详解](https://fanfansann.blog.csdn.net/article/details/105947123)
+
+### 5.1 初始化
+
+```cpp
+#include<stack>
+stack<int> sta; //初始化一个空栈
+```
+
+### 5.2 基本操作
+
+```cpp
+size()  //求栈的大小
+empty() //判断栈是否为空
+push()  //向栈顶插入一个元素
+top()   //返回栈顶元素
+pop()   //弹出栈顶元素
+```
+
+## 6 queue
+
+- 实现一个先进先出的数据结构
+- 在弹出数据时需要判断队列是否为空
+- 基础知识参考: [数据结构（C语言版） 第 三 章 栈与队列 知识梳理 + 作业习题详解](https://fanfansann.blog.csdn.net/article/details/105947123)
+
+### 6.1 初始化
+
+```cpp
+#include<queue>
+queue<int> q; //初始化一个空队列
+```
+
+### 6.2 基本操作
+
+```cpp
+size()  //求队列的大小
+empty() //判断队列是否为空
+push()  //向队尾插入一个元素
+front() //返回队头元素
+back()  //返回队尾元素
+pop()   //弹出队头元素
+```
 
