@@ -2,7 +2,7 @@
 
 ## 前言
 
-> 认识程序设计竞赛（作者：2016级学长 林泽聪）：[一道题带你认识ACM竞赛_LP-Cong](https://lpcong.blog.csdn.net/article/details/77887804)
+> 认识程序设计竞赛（作者：2015级学长 林泽聪）：[一道题带你认识ACM竞赛_LP-Cong](https://lpcong.blog.csdn.net/article/details/77887804)
 >
 > [Gitee镜像](https://gitee.com/hong-qiu_qiuhong1202/XCPC-Nurturance)
 
